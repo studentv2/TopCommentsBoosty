@@ -18,7 +18,7 @@
 ## Установка (для Chrome / Edge)
 1. Клонируйте репозиторий или скачайте ZIP:
    ```bash
-   git clone https://github.com/<username>/<repo>.git
+   git clone https://github.com/studentv2/TopCommentsBoosty.git
 
 2. Откройте chrome://extensions (или edge://extensions).
 
